@@ -2,7 +2,7 @@ package `KotlinSubmission-Morning`.exercise4
 
 fun main() {
     try {
-        val result = divide(10, 0)
+        val result = divide(14, 2)
         println("Hasil pembagian: $result")
     } catch (e: ArithmeticException) {
         println("Terjadi kesalahan aritmatika: ${e.message}")

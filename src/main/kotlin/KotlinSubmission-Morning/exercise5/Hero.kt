@@ -75,7 +75,7 @@ class Hero {
     */
     fun main() {
         val hero = Hero()
-        hero.setProfile("John Doe", 25, 175)
+        hero.setProfile("Saznoir", 31, 177)
 
         hero.profile()
         hero.lari()

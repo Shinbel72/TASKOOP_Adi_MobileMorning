@@ -87,9 +87,9 @@ fun main() {
         hero.lompat(5)
         hero.duduk(1)
 
-        val myName = "Jodhy Herlambang"
-        val myAge = 25
-        val myHeight = 175.5
+        val myName = "Adi Prayogo"
+        val myAge = 21
+        val myHeight = 172.5
 
         hero.setProfile(myName, myAge, myHeight)
         hero.profile()
